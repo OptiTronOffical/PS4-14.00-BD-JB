@@ -1,5 +1,7 @@
 NOTE - THIS IS STOLEN CODE, BUT TBH YOU TRY CHARGE WHAT DO U EXPECT, Play silly games win silly prizes.
 
+[![Screenshot-2026-10-30-21-58-47.png](https://i.postimg.cc/HLWjZzNG/Screenshot-2026-10-30-21-58-47.png)](https://postimg.cc/WdK2tGjS)
+
 # PS4 14.00 BD-JB (Blu-ray Java Jailbreak)
 
 A Blu-ray Disc (BD-J) jailbreak image for PlayStation 4 consoles running **System Software 14.00**. This project leverages the BD-JB vulnerability to achieve userland code execution and load a Homebrew Enabler (HEN) via a crafted Blu-ray disc.
@@ -117,6 +119,6 @@ This repository provides the **file system source** for the exploit disc. To dep
 
 ---
 
-[![Screenshot-2026-10-30-21-58-47.png](https://i.postimg.cc/HLWjZzNG/Screenshot-2026-10-30-21-58-47.png)](https://postimg.cc/WdK2tGjS)
+
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/3JyRzW9y/HV5e-Mtv-W0AAz2P7.png" alt="HV5e-Mtv-W0AAz2P7"></a><br><br>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZK9RX0jd/image.webp" alt="image"></a><br><br>
