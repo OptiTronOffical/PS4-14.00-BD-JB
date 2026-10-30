@@ -1,4 +1,4 @@
-
+NOTE - THIS IS STOLEN CODE, BUT TBH YOU TRY CHARGE WHAT DO U EXPECT, Play silly games win silly prizes.
 
 # PS4 14.00 BD-JB (Blu-ray Java Jailbreak)
 
