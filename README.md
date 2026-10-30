@@ -112,7 +112,8 @@ This repository provides the **file system source** for the exploit disc. To dep
 
 ## Credits
 
-- **Exploit authors / testers (per `NOTICE.txt`):** Kat (@avieah), Slopp (@slopp), and Pigeon (@daburningpigeon) on Discord.
+- **Exploit authors / testers (per `NOTICE.txt`):** @ASaudidos on X
+- Kat (@avieah), Slopp (@slopp), and Pigeon (@daburningpigeon) on Discord.
 - **Confirmation:** *dr.yenyen* (14 attempts).
 - **Repository maintainer:** OptiTronOffical.
 - **Leaked:** XeMoisties
